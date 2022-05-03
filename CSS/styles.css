@@ -1,5 +1,5 @@
 h1 {
-    font-family: 'Franklin Gothic Medium';
+    font-family: 'Franklin Gothic';
 }
 p {
     font-family: 'Arial Narrow';
@@ -8,4 +8,15 @@ p {
 body {
     background: purple;
     color: white;
+    margin: 0;
+    padding: 0;
 }
+
+
+
+/*=================================================================*/
+
+/* Här börjar header CSS */
+
+
+/*Här börjar Main CSS*/
