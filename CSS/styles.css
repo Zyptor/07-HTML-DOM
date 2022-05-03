@@ -1,0 +1,11 @@
+h1 {
+    font-family: 'Franklin Gothic Medium';
+}
+p {
+    font-family: 'Arial Narrow';
+}
+
+body {
+    background: purple;
+    color: white;
+}
